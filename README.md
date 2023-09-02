@@ -1,2 +1,2 @@
 # bridgwy.com
-Experimental host for the website www.bridgwy.com.
+Experimental project for the website development of www.bridgwy.com.
