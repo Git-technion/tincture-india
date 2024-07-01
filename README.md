@@ -1,2 +1,2 @@
-# bridgwy.com
-Experimental project for the website development of www.bridgwy.com.
+# tinctureindia.com
+Experimental project for the website development of www.tinctureindia.com.
